@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Flamengo",
+    "full_name": "Clube de Regatas do Flamengo",
+    "badge": "assets/image/badges/flamengo.png"
+  },
+  {
+    "id": 2,
+    "name": "Palmeiras",
+    "full_name": "Sociedade Esportiva Palmeiras",
+    "badge": "assets/image/badges/palmeiras.png"
+  },
+  {
+    "id": 3,
+    "name": "São Paulo",
+    "full_name": "São Paulo Futebol Clube",
+    "badge": "assets/image/badges/sao_paulo.png"
+  },
+  {
+    "id": 4,
+    "name": "Corinthians",
+    "full_name": "Sport Club Corinthians Paulista",
+    "badge": "assets/image/badges/corinthians.png"
+  },
+  {
+    "id": 5,
+    "name": "Grêmio",
+    "full_name": "Grêmio Foot-Ball Porto Alegrense",
+    "badge": "assets/image/badges/gremio.png"
+  },
+  {
+    "id": 6,
+    "name": "Internacional",
+    "full_name": "Sport Club Internacional",
+    "badge": "assets/image/badges/internacional.png"
+  },
+  {
+    "id": 7,
+    "name": "Atlético Mineiro",
+    "full_name": "Clube Atlético Mineiro",
+    "badge": "assets/image/badges/atletico_mineiro.png"
+  },
+  {
+    "id": 8,
+    "name": "Fluminense",
+    "full_name": "Fluminense Football Club",
+    "badge": "assets/image/badges/fluminense.png"
+  },
+  {
+    "id": 9,
+    "name": "Vasco da Gama",
+    "full_name": "Club de Regatas Vasco da Gama",
+    "badge": "assets/image/badges/vasco.png"
+  },
+  {
+    "id": 10,
+    "name": "Botafogo",
+    "full_name": "Botafogo de Futebol e Regatas",
+    "badge": "assets/image/badges/botafogo.png"
+  },
+  {
+    "id": 11,
+    "name": "Cruzeiro",
+    "full_name": "Cruzeiro Esporte Clube",
+    "badge": "assets/image/badges/cruzeiro.png"
+  },
+  {
+    "id": 12,
+    "name": "Bahia",
+    "full_name": "Esporte Clube Bahia",
+    "badge": "assets/image/badges/bahia.png"
+  },
+  {
+    "id": 13,
+    "name": "Fortaleza",
+    "full_name": "Fortaleza Esporte Clube",
+    "badge": "assets/image/badges/fortaleza.png"
+  },
+  {
+    "id": 14,
+    "name": "Athletico Paranaense",
+    "full_name": "Club Athletico Paranaense",
+    "badge": "assets/image/badges/athletico_pr.png"
+  },
+  {
+    "id": 15,
+    "name": "Bragantino",
+    "full_name": "Red Bull Bragantino",
+    "badge": "assets/image/badges/bragantino.png"
+  },
+  {
+    "id": 16,
+    "name": "Criciúma",
+    "full_name": "Criciúma Esporte Clube",
+    "badge": "assets/image/badges/criciuma.png"
+  },
+  {
+    "id": 17,
+    "name": "Cuiabá",
+    "full_name": "Cuiabá Esporte Clube",
+    "badge": "assets/image/badges/cuiaba.png"
+  },
+  {
+    "id": 18,
+    "name": "Juventude",
+    "full_name": "Esporte Clube Juventude",
+    "badge": "assets/image/badges/juventude.png"
+  },
+  {
+    "id": 19,
+    "name": "Vitória",
+    "full_name": "Esporte Clube Vitória",
+    "badge": "assets/image/badges/vitoria.png"
+  },
+  {
+    "id": 20,
+    "name": "Atlético Goianiense",
+    "full_name": "Atlético Clube Goianiense",
+    "badge": "assets/image/badges/atletico_go.png"
+  }
+]
