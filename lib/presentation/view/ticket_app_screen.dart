@@ -3,6 +3,7 @@ import 'package:footballtickets/presentation/components/checkbox_adicional_servi
 import 'package:footballtickets/presentation/components/dropdown_menu.dart';
 import 'package:footballtickets/presentation/components/header.dart';
 import 'package:footballtickets/presentation/components/name_text_input.dart';
+import 'package:footballtickets/presentation/components/next_page_button.dart';
 import 'package:footballtickets/presentation/components/radiobutton_ticket_type.dart';
 
 class TicketAppScreen extends StatefulWidget {
@@ -20,7 +21,7 @@ class _TicketAppScreenState extends State<TicketAppScreen> {
         child: Padding(
           padding: const EdgeInsets.symmetric(
             horizontal: 16,
-          ), // ✅ one padding for everything
+          ),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -50,6 +51,7 @@ class _TicketAppScreenState extends State<TicketAppScreen> {
               ),
               CheckboxAdicionalService(),
               SizedBox(height: 20),
+              NextPageButton(),
             ],
           ),
         ),
@@ -57,3 +59,4 @@ class _TicketAppScreenState extends State<TicketAppScreen> {
     );
   }
 }
+// para fazer navegação fazer duas telas: summary screen + form screen e ticket app screen (controle), no onPressed usar uma váriavel booleana para controlar qual tela sera mostrada a partir do setState e também operadores ternarios : ? SummaryScreen() : TicketScreen()
